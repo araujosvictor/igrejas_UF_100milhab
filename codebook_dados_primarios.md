@@ -1,7 +1,7 @@
 # Codebook do banco de estabelecimentos religiosos utilizado na classificação semi-supervisionada
 ## Unidade de análise: estabelecimento religioso
 
-As seguintes variáveis podem ser acessadas no arquivo "df_igrejas_nomes.csv":
+O arquivo "df_igrejas_nomes.csv" contém as seguintes variáveis:
 
 1. $ cnpj                     <dbl> informa o CNPJ do estabelecimento religioso 
 2. $ codigo_natureza_juridica <int> informa o código de natureza jurídica do estabelecimento religioso
