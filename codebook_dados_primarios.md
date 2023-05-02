@@ -8,7 +8,7 @@ O arquivo "df_igrejas_nomes.csv" contém as seguintes variáveis:
 3. razao_social informa a razão social (nome) do estabelecimento religioso; esta é a variável texto utilizada para a classificação dos estabelecimentos religiosos inscritos na Receita Federal
 4. uf informa a Unidade Federativa (UF) onde está localizado o estabelecimento religioso
 5. municipio informa o município brasileiro onde está localizado o estabelecimento religioso
-6. cep informa o códio postal do estabelecimento religioso
+6. cep informa o código postal do estabelecimento religioso
 7. bairro informa o bairro do estabelecimento religioso
 8. logradouro informa o logradouro do estabelecimento religioso
 9. numero informa o número de logradouro do estabelecimento religioso
