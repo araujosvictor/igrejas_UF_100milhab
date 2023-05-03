@@ -1,4 +1,6 @@
 # igrejas_UF_100milhab
+## Replicação e download dos dados apresentados em: Surgimento, trajetória e expansão das Igrejas Evangélicas no território Brasileiro ao longo do último século (1920-2019)
+
 
 Neste repositório podem ser acessados os arquivos base que permitem a replicação da classificação do universo dos estabelecimentos religiosos registrados na Receita Federal do Brasil. Algumas informações importantes:
   1. O arquivo "df_igrejas_nomes.CSV" é o arquivo base que contém mais de 150 mil estabelecimentos religiosos inscritos na Receita Federal e que se encontravam ativos em 2019, data da coleta das informações;
